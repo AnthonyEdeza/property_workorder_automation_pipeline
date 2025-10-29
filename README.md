@@ -24,6 +24,7 @@ Before automation, inspection data was unstructured and decentralized:
 - Contractors sent photos through text or email, often unlabeled or missing context.  
 - Project managers recreated folder hierarchies manually for every property.  
 - Tracking progress between “submitted” and “approved” inspections was slow and error-prone.
+- Language Barrier.
 
 The result was inconsistent record-keeping and delayed project turnover — issues that created compliance risks and communication breakdowns.
 
