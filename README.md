@@ -118,7 +118,7 @@ This repository exists solely for **educational and portfolio demonstration** pu
 ---
 
 👤 Created by Anthony Edeza  
-📧 [AnthonyEdeza.Data@gmail.com]
+📧 AnthonyEdeza.Data@gmail.com
 
 ---
 
