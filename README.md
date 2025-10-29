@@ -67,7 +67,7 @@ This approach unified the data flow between field and office, improving both tra
 
 | Metric | Before | After Automation |
 |--------|---------|------------------|
-| Folder creation time | 30–45 minutes | < 1 minute |
+| Folder creation time | 30–45 minutes | < 5 minutes |
 | Data structure consistency | Low | 100% standardized |
 | Photo submission completeness | ~65% | >95% |
 | Manager–contractor communication lag | 1–2 days | < 2 hours |
@@ -93,7 +93,7 @@ Created a traceable, standardized data workflow between contractors and project 
 
 This example folder was generated using sanitized test data to demonstrate how the automation organizes property inspection documentation.  
 It includes:
-- Bilingual (English/Spanish) folder names  
+- Folder names  
 - Scopewalk categories with description text files  
 - Standardized naming conventions for traceability  
 
@@ -117,7 +117,7 @@ This repository exists solely for **educational and portfolio demonstration** pu
 ---
 
 👤 Created by Anthony Edeza  
-📧 [anthonyedeza.data@gmail.com]
+📧 [AnthonyEdeza.Data@gmail.com]
 
 ---
 
